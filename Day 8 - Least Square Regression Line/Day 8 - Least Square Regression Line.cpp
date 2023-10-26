@@ -28,7 +28,6 @@ long sqsum(vector<int>&X){
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     vector<int> X;
     vector<int> Y;
     for(int i = 0; i < 5; i++){
